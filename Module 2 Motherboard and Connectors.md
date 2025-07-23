@@ -18,3 +18,8 @@
 1. Explore PC building tutorials
 2. Use online resources to identify cables/connectors (SATA, IDE, USB Headers)
 3. Pretend you have $1,000 and build a PC on PC Part Picker (Create different variations: Gaming, General Workstation, Video Edition, etc. Explain the parts picked and why)
+
+# Alternative Lab
+
+1. Open an old PC or laptop to physically identify motherboard components, cables, and connectors.
+2. Use built in BIOS/UEFI to explore motherboard settings
