@@ -17,3 +17,8 @@
 1. Create a VM and adjust RAM allocation to simulate adding/removing memory.
 2. Add or remove virtual hard disks to simulate installing storage devices.
 3. Use VM BIOS/UEFI setup screens to observe device recognition
+
+# Alternative Lab
+
+1. Add or remove removable RAM modules or storage drives from your own PC
+2. Use device manager or system info to see installed devices
