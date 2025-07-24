@@ -1,7 +1,5 @@
 # Comparing Local Networking Hardware
 
-## Objective: Understand roles of network devices (switch, router, firewall, accesspoint)
-
 ## Key Concepts
 * Understand the purpose of networking devices (switch, router, hub, modem, firewall, access point)
 * Differentiate between wireless standards (802.11 a/b/g/n/ac/ax)
