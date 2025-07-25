@@ -1,2 +1,1 @@
-# CompTIA-1201-Home-Labs
-Home Labs for Students to Practice 1201 Concepts.
+# Home Labs created for students to practice CompTIA A+ 1201 material
