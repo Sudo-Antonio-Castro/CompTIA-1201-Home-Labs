@@ -5,6 +5,6 @@ I created these labs in order for CompTIA A+ 1201 students to have some practice
 We have a few different modules to go through in order to cover Core 1 of the A+ Certification Exam.
 
 *Labs*
-- [Motherboard and Connectors](CompTIA-1201-Home-Labs/Module%202%20Motherboard%20and%20Connectors.html)
-- [R Programming](https://github.com/Sudo-Antonio-Castro/R/tree/main)
-- [A+ 1201 Home Labs](https://github.com/Sudo-Antonio-Castro/CompTIA-1201-Home-Labs/tree/main)
+- [Module 2: Motherboard and Connectors](Module%202%20Motherboard%20and%20Connectors.html)
+- [Module 3: Installing System Devices](Module%203%20Installing%20System%20Devices.html)
+- [Module 4: Troubleshooting PC Hardware](Module%204%20Troubleshooting%20PC%20Hardware.html)
